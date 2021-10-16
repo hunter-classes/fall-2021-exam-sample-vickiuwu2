@@ -1,0 +1,46 @@
+* Fall 2021 - 127 - Exam SAMPLE
+
+* Last Name: 
+
+* First Name: 
+
+* GitHub username: 
+
+* Notes:
+
+* Instructions, part 1
+
+- When run, the program(s) for each question should print out a line
+  explaining what it's testing, call the required functions, and print
+  the output. There should be no keyboard input unless the question
+  explicitly asks for it.
+- Place any notes you want to tell me in this file under the *Notes:*
+  heading above.
+- You are to complete all questions.
+- The only sites you may use for reference are our text book
+  (https://runestone.academy/runestone/books/published/thinkcspy/index.html)
+  and the online python3
+  documentation at **https://docs.python.org/3/**. You may not look at
+  your own prior work on repl.it or anywhere else.
+- Your may not use Python functions or methods that defeat the purpose of the
+  question. For example, if there was a question that explicitly asked
+  you to sort a list of numbers (something I would not ask since we
+  haven't covered it), you would not be allowed to use the built in
+  sort() method. If you have any questions about this, please ask
+  during the exam.
+
+
+* Overall instructions:
+
+Create a single program named *answers.py*. It should contain all the
+functions specified below. When you run the program, it should
+demonstrate that each funciton works by running them in order. It
+should print a header before each function that looks as follows:
+
+#+begin_example
+------------------- Question 1 ----------------
+some brief description of what the output should be
+#+end_example
+
+Followed by the output of your tests.
+
